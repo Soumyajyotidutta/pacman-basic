@@ -1,3 +1,3 @@
 # pacman-basic
-JavaScript Game
+JavaScript Game //
 Use Keyboard to play
